@@ -4,7 +4,7 @@
 
 The **Spotify Clone** is a front-end web application that recreates the user interface of Spotify using **HTML** and **CSS**. The project features a clean and modern design inspired by the original Spotify platform, allowing users to browse trending tracks, search for music, and play songs using built-in audio controls.
 
-Developed as part of an **Information and Communication Technology (ICT) semester project**, this application demonstrates the implementation of modern web design principles, semantic HTML, CSS styling, responsive layouts, multimedia integration, and user-friendly interface design.
+Developed as part of an **Introduction to Information and Communication Technology (ICT) semester project**, this application demonstrates the implementation of modern web design principles, semantic HTML, CSS styling, responsive layouts, multimedia integration, and user-friendly interface design.
 
 ---
 
