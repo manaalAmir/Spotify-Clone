@@ -40,7 +40,7 @@ Spotify-Clone/
 ├── track images/
 ├── audio files/
 ├── README.md
-└── assets/
+└── screenshots/
 ```
 
 ---
