@@ -66,7 +66,9 @@ No additional installation or dependencies are required.
 ---
 
 ## 📸 Preview
-![Spotify Clone Preview](screenshots/preview.png)
+![Spotify Clone Preview](screenshots/preview.PNG)
+
+![Spotify Clone Preview](screenshots/previews.PNG)
 
 ---
 
